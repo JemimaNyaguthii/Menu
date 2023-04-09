@@ -1,0 +1,46 @@
+body{
+    background-image: url(Coffee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */
+    height: 400px;
+    font-family: system-ui;
+   
+}
+h1,h2,p{
+    text-align: center;
+}
+#established{
+    font-style: italic;
+}
+.cafe{
+    background-color: burlywood;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    
+    height: 600px;
+}
+.flavor{
+    text-align: left;
+    width:40% ;
+    margin-left: 5%;
+
+}
+.price{
+text-align: right;
+width: 20%;
+}
+.item p{
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+   
+}
+hr{
+    background-color: brown;
+    border-color: brown;
+    height: 4px;
+}
